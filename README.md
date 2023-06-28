@@ -1,2 +1,2 @@
-# landing-page-do-fulano
-Testando github pages aqui
+# landing-page-de-testes
+Testando github pages para landing pages
